@@ -3,6 +3,7 @@ public class Main {
         System.out.println("Hello world!");
         System.out.println(" Me gusta el chocolate");
         System.out.println("Me gusta el chocolate blanco");
+        System.out.println("Me encanta el helado de fresa");
     }
 
 }
