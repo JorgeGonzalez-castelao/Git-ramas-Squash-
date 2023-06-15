@@ -4,6 +4,7 @@ public class Main {
         System.out.println(" Me gusta el chocolate");
         System.out.println("Me gusta el chocolate blanco");
         System.out.println("Me encanta el helado de fresa");
+        System.out.println("Pero mejor que nada el cafe");
     }
 
 }
